@@ -1,0 +1,67 @@
+[1;1m[20/06/2022 02:01:32] [*] Starting OurSQL[0;m
+[1;1m[20/06/2022 02:01:32] [*] Targeting 192.168.1.122[0;m
+[1;1m[20/06/2022 02:01:32] [*] Checking if 192.168.1.122:3306 allow us to connect[0;m
+[1;92m[20/06/2022 02:01:32] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:32] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:32] [*] Starting brute-force[0;m
+[1;1m[20/06/2022 02:01:32] [*] Targeting user root[0;m
+[1;1m[20/06/2022 02:01:32] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:32] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:32] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:32] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:32] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:32] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:32] [*] Targeting user admin[0;m
+[1;91m[20/06/2022 02:01:33] [-] сука блять! Unable to find password for user admin[0;m
+[1;1m[20/06/2022 02:01:33] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:33] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:33] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:33] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:33] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:33] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:33] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:33] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:33] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:33] [*] Targeting user cloudera[0;m
+[1;91m[20/06/2022 02:01:33] [-] сука блять! Unable to find password for user cloudera[0;m
+[1;1m[20/06/2022 02:01:33] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:33] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:33] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:33] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:33] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:33] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:34] [*] Targeting user moves[0;m
+[1;91m[20/06/2022 02:01:34] [-] сука блять! Unable to find password for user moves[0;m
+[1;1m[20/06/2022 02:01:34] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:34] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:34] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:34] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:34] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:34] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:34] [*] Targeting user mcUser[0;m
+[1;91m[20/06/2022 02:01:34] [-] сука блять! Unable to find password for user mcUser[0;m
+[1;1m[20/06/2022 02:01:34] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:34] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:34] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:35] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:35] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user dbuser[0;m
+[1;91m[20/06/2022 02:01:35] [-] сука блять! Unable to find password for user dbuser[0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user asteriskuser[0;m
+[1;91m[20/06/2022 02:01:35] [-] сука блять! Unable to find password for user asteriskuser[0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user asteriskuser[0;m
+[1;91m[20/06/2022 02:01:35] [-] сука блять! Unable to find password for user asteriskuser[0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:35] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:35] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:35] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:35] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:35] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:35] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:35] [*] Targeting user root[0;m
+[1;92m[20/06/2022 02:01:35] [+] Login success! root : [0;m
+[1;92m[20/06/2022 02:01:35] [+] Successfully made their MySQL into OurSQL![0;m
+[1;1m[20/06/2022 02:01:35] [*] Exiting OurSQL[0;m

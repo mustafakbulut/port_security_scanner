@@ -1,0 +1,4 @@
+[+] 	RMI registry localhost bypass enumeration (CVE-2019-2684):
+[+]
+[+] 		- Caught NotBoundException during unbind call (unbind was accepeted).
+[+] 		  Vulnerability Status: Vulnerable

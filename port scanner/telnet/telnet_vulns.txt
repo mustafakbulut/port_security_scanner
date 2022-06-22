@@ -1,0 +1,6 @@
+[+]Telnet protocol is using default credentials!!
+
+[23][telnet] host: 192.168.1.122   login: msfadmin   password: msfadmin
+[23][telnet] host: 192.168.1.122   login: user   password: user
+[23][telnet] host: 192.168.1.122   login: service   password: service
+1 of 1 target successfully completed, 3 valid passwords found

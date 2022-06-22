@@ -1,0 +1,27 @@
+[32m[22m
+     ____  __ __          __          _       _______           __
+    / __ \/ //_/___ _____/ /___ ___  (_)___  / ____(_)___  ____/ /__  _____
+   / / / / ,< / __ `/ __  / __ `__ \/ / __ \/ /_  / / __ \/ __  / _ \/ ___/
+  / /_/ / /| / /_/ / /_/ / / / / / / / / / / __/ / / / / / /_/ /  __/ /
+  \____/_/ |_\__,_/\__,_/_/ /_/ /_/_/_/ /_/_/   /_/_/ /_/\__,_/\___/_/
+     version 2.5.3 created by O.Koleda & rewritten by mIcHy AmRaNe
+
+    
+[32m[22m
+  Site 192.168.1.122 is stable
+
+[32m[1m
+    [✔] http://192.168.1.122/phpMyAdmin/                          Admin page found!
+
+[32m[1m
+    [✔] http://192.168.1.122/index/admin                          Admin page found!
+
+[32m[22m
+
+  Completed 
+
+[37m[22m2 Admin pages found
+[37m[22m576 total pages scanned
+[31m[22m
+	[x] Session Cancelled
+[37m[22m

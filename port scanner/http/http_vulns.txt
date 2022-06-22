@@ -1,0 +1,6 @@
+[+] HTTP Server info: Apache/2.2.8 (Ubuntu) DAV/2
+[+] Some security headers are missing in HTTP headers!!
+Missing Headers: Strict-Transport-Security,Content-Security-Policy,X-Frame-Options,X-XSS-Protection,Referrer-Policy,Cross-Origin-Resource-Policy,HttpOnly,Cache-Control,
+[+] Admin panel found in the website!!
+    [✔] http://192.168.1.122/phpMyAdmin/                          Admin page found!
+    [✔] http://192.168.1.122/index/admin                          Admin page found!

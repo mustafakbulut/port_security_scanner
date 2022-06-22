@@ -1,0 +1,1 @@
+[+] MySQL protocol is using default credentials!! Login success! root : 

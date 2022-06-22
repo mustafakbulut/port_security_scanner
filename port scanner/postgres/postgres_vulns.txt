@@ -1,0 +1,2 @@
+[+] PostgreSQL service is using default credentials!!
+[5432][postgres] host: 192.168.1.122   login: postgres   password: postgres
